@@ -10215,7 +10215,7 @@
 		<Value>Cobrar a esta dirección</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.Button">
-		<Value>Comprar</Value>
+		<Value>Comprar/Reservar</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ConfirmButton">
 		<Value>Confirmar</Value>
@@ -17589,7 +17589,7 @@
 		<Value>Carrito</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart">
-		<Value>Comprar Ya</Value>
+		<Value>Comprar/Reservar Ya</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart.Update">
 		<Value>Actualizar</Value>
