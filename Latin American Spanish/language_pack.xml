@@ -102,16 +102,27 @@
 		<Value>La clave se ha cambiado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CheckUsernameAvailability.Available">
+<<<<<<< HEAD
 		<Value>Documentos de identidad disponibles</Value>
+=======
+		<Value>Nombre de usuario disponibles</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Account.CheckUsernameAvailability.Button">
 		<Value>Verificar disponibilidad</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CheckUsernameAvailability.CurrentUsername">
+<<<<<<< HEAD
 		<Value>Documento de identidad actual</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CheckUsernameAvailability.NotAvailable">
 		<Value>El documento de identidad no está disponible</Value>
+=======
+		<Value>Nombre de usuario actual</Value>
+	</LocaleResource>
+	<LocaleResource Name="Account.CheckUsernameAvailability.NotAvailable">
+		<Value>Nombre de usuario no está disponible</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Account.CompanyDetails">
 		<Value>Datos de la empresa</Value>
@@ -216,10 +227,17 @@
 		<Value>El nuevo email no es válido</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailUsernameErrors.UsernameAlreadyExists">
+<<<<<<< HEAD
 		<Value>El documento de identidad ya está en uso</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.EmailUsernameErrors.UsernameTooLong">
 		<Value>El documento de identidad es demasiado largo</Value>
+=======
+		<Value>El nombre de usuario ya esta en uso</Value>
+	</LocaleResource>
+	<LocaleResource Name="Account.EmailUsernameErrors.UsernameTooLong">
+		<Value>Nombre de usuario es demasiado largo</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.AcceptPrivacyPolicy">
 		<Value>Acepto la política de privacidad</Value>
@@ -330,10 +348,17 @@
 		<Value>Zona horaria</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Username">
+<<<<<<< HEAD
 		<Value>Documento de identidad</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.Username.Required">
 		<Value>Se requiere el documento de identidad.</Value>
+=======
+		<Value>Nombre de usuario</Value>
+	</LocaleResource>
+	<LocaleResource Name="Account.Fields.Username.Required">
+		<Value>Se requiere nombre de usuario.</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Account.Fields.VatNumber">
 		<Value>RUT</Value>
@@ -396,7 +421,11 @@
 		<Value>Recordarme</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.Fields.UserName">
+<<<<<<< HEAD
 		<Value>Documento de identidad</Value>
+=======
+		<Value>Nombre de usuario</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Account.Login.ForgotPassword">
 		<Value>¿Olvidaste tu clave?</Value>
@@ -516,10 +545,17 @@
 		<Value>No ingreso la clave</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.UsernameAlreadyExists">
+<<<<<<< HEAD
 		<Value>Ya existe el documento de identidad especificado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Errors.UsernameIsNotProvided">
 		<Value>Se requiere el documento de identidad.</Value>
+=======
+		<Value>Ya existe el nombre de usuario especificado</Value>
+	</LocaleResource>
+	<LocaleResource Name="Account.Register.Errors.UsernameIsNotProvided">
+		<Value>Se requiere nombre de usuario.</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Account.Register.Result.AdminApproval">
 		<Value>Su cuenta se activará después de la aprobación por el administrador.</Value>
@@ -4335,10 +4371,17 @@
 		<Value>Un valor que indica si los clientes pueden subir avatars.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.AllowUsersToChangeUsernames">
+<<<<<<< HEAD
 		<Value>Permite a los clientes cambiar su documento de identidad</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.AllowUsersToChangeUsernames.Hint">
 		<Value>Un valor que indica si los clientes pueden cambiar su documento de identidad.</Value>
+=======
+		<Value>Permite a los clientes a cambiar sus nombres de usuario</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.AllowUsersToChangeUsernames.Hint">
+		<Value>Un valor que indica si los clientes pueden cambiar sus nombres de usuario.</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.AllowViewingProfiles">
 		<Value>Permitir la visualización de perfiles de clientes</Value>
@@ -4347,10 +4390,17 @@
 		<Value>Un valor que indica si la visualización de perfiles de clientes está permitida.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.CheckUsernameAvailabilityEnabled">
+<<<<<<< HEAD
 		<Value>Permite a los clientes para comprobar la disponibilidad de documentos de identidad</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.CheckUsernameAvailabilityEnabled.Hint">
 		<Value>Un valor que indica si los clientes pueden comprobar la disponibilidad de documentos de identidad (al registrar o cambiar en "Mi cuenta").</Value>
+=======
+		<Value>Permite a los clientes para comprobar la disponibilidad de nombres de usuario</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.CheckUsernameAvailabilityEnabled.Hint">
+		<Value>Un valor que indica si los clientes pueden comprobar la disponibilidad de nombres de usuario (al registrar o cambiar en "Mi cuenta").</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.CityEnabled">
 		<Value>'Ciudad' habilitado</Value>
@@ -4542,10 +4592,17 @@
 		<Value>Compruebe si se requiere 'Domicilio'.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UsernamesEnabled">
+<<<<<<< HEAD
 		<Value>'Documentos de identidad' activado</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UsernamesEnabled.Hint">
 		<Value>Marca para usar el documento de identidad para el login y el registro en lugar de los emails. ADVERTENCIA: No se recomienda cambiar si estás en producción.</Value>
+=======
+		<Value>'Los nombres de usuario' Activado</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UsernamesEnabled.Hint">
+		<Value>Marca para usar los nombres de usuario para el login y el registro en lugar de los emails. ADVERTENCIA: No se recomienda cambiar si estás en producción.</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UserRegistrationType">
 		<Value>Método de registro</Value>
@@ -7152,6 +7209,7 @@
 		<Value>La zona horaria.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Username">
+<<<<<<< HEAD
 		<Value>Documento de identidad</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Username.Hint">
@@ -7159,6 +7217,15 @@
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.Username.Required">
 		<Value>Por favor proporcione un documento de identidad.</Value>
+=======
+		<Value>Nombre de usuario</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Customers.Customers.Fields.Username.Hint">
+		<Value>El nombre de usuario del cliente.</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Customers.Customers.Fields.Username.Required">
+		<Value>Por favor proporcione un nombre de usuario.</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.Fields.VatNumber">
 		<Value>RUT</Value>
@@ -7257,10 +7324,17 @@
 		<Value>Buscar un número de teléfono.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchUsername">
+<<<<<<< HEAD
 		<Value>Documento de identidad</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchUsername.Hint">
 		<Value>Buscar un documento de identidad específico.</Value>
+=======
+		<Value>Nombre de usuario</Value>
+	</LocaleResource>
+	<LocaleResource Name="Admin.Customers.Customers.List.SearchUsername.Hint">
+		<Value>Buscar un nombre de usuario específico.</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Admin.Customers.Customers.List.SearchZipCode">
 		<Value>Código postal</Value>
@@ -10215,7 +10289,11 @@
 		<Value>Cobrar a esta dirección</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.Button">
+<<<<<<< HEAD
 		<Value>Comprar/Reservar</Value>
+=======
+		<Value>Comprar</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Checkout.ConfirmButton">
 		<Value>Confirmar</Value>
@@ -10680,7 +10758,11 @@
 		<Value>Mostrar nombres completos</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowUsernames">
+<<<<<<< HEAD
 		<Value>Mostrar documentos de identidad</Value>
+=======
+		<Value>Mostrar nombres de usuario</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Enums.Nop.Core.Domain.Customers.PasswordFormat.Clear">
 		<Value>Borrar</Value>
@@ -10941,7 +11023,11 @@
 		<Value>No está en el rol</Value>
 	</LocaleResource>
 	<LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty.UserName">
+<<<<<<< HEAD
 		<Value>Documento de identidad</Value>
+=======
+		<Value>Nombre de Usuario</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType">
 		<Value/>
@@ -12375,7 +12461,11 @@
 		<Value>Reintentar pago</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.RetryPayment.Hint">
+<<<<<<< HEAD
 		<Value>Esta orden aún no se paga. Estamos verificando la validez de los datos. Lo contactaremos si necesitamos que reintente el pago.</Value>
+=======
+		<Value>Esta orden aún no se paga. Para pagarla haga clic en el botón "Reintentar pago".</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="Order.ReturnItems">
 		<Value>Devolver artículo(s)</Value>
@@ -15891,7 +15981,11 @@
 		<Value>If set the SmartSEO Template will be applied for all products, categories and manufacturers in your store. NOTE: You can override a global SmartSEO template by creating a non global SmartSEO template and mapping it to category or manufacturer.</Value>
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.NopSmartSEO.Admin.SEOTemplate.ManufacturerDescriptionSEOTemplate">
+<<<<<<< HEAD
 		<Value>    Manufacturer Description SEO Template</Value>
+=======
+		<Value>      Manufacturer Description SEO Template</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.NopSmartSEO.Admin.SEOTemplate.ManufacturerDescriptionSEOTemplate.Hint">
 		<Value>      Manufacturer Description SEO Templates</Value>
@@ -16626,7 +16720,11 @@
 		<Value>To Date</Value>
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.Plugins.HtmlWidgets.Admin.Entities.HtmlWidget.ToDate.Hint">
+<<<<<<< HEAD
 		<Value>    The date to which the html widget will be displayed.</Value>
+=======
+		<Value>      The date to which the html widget will be displayed.</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.Plugins.HtmlWidgets.Admin.Entities.HtmlWidget.Visible">
 		<Value>Visible</Value>
@@ -17589,7 +17687,11 @@
 		<Value>Carrito</Value>
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart">
+<<<<<<< HEAD
 		<Value>Comprar/Reservar Ya</Value>
+=======
+		<Value>Comprar Ya</Value>
+>>>>>>> remotes/AxiomaX/nopcommerce.languagepack.latinamerican/master
 	</LocaleResource>
 	<LocaleResource Name="ShoppingCart.AddToCart.Update">
 		<Value>Actualizar</Value>
