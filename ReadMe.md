@@ -1,9 +1,15 @@
-# FRUTA FRESCA
+# Fruta Fresca
+
 Diferencias con el "Language Pack" original:
-- Cambia "Nombre de usuario" por "Documentos de identidad"
-- Cambia "Comprar"           por "Comprar/Reservar"
-- 
+
+- Cambia "Nombre de usuario"      por "Documentos de identidad"
+
+- Cambia "Comprar"                por "Comprar/Reservar"
+
+- Cambia "Número de Seguimiento"  por "Número de Guía"
+
 - Cambia el texto de "Order.RetryPayment.Hint"
+
 
 
 # NopCommerce Latin American Language Pack
@@ -102,6 +108,8 @@ Si desea la tienda sólo en español:
 
 
 ## Historia
+**2014 12 14:** Más correcciones menores y se documentan las diferencias de este Pack y el original de Nop
+
 **2014 12 12:** Más correcciones menores y adición de plugin Nop Smart SEO (Pendiente por traducir)
 
 **2014 09 10:** Más correcciones menores y arreglo de repositorio

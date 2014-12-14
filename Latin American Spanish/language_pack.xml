@@ -8409,10 +8409,10 @@
 		<Value>Buscar por un estado específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.TrackingNumber">
-		<Value>El número de seguimiento</Value>
+		<Value>El número de guía</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.List.TrackingNumber.Hint">
-		<Value>Buscar un número de seguimiento específico.</Value>
+		<Value>Buscar un número de guía específico.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.NoProductsSelected">
 		<Value>No hay productos seleccionados</Value>
@@ -8484,13 +8484,13 @@
 		<Value>Peso total del envío.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.TrackingNumber">
-		<Value>El número de seguimiento</Value>
+		<Value>El número de guía</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.TrackingNumber.Button">
-		<Value>Establecer el número de seguimiento</Value>
+		<Value>Establecer el número de guía</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.TrackingNumber.Hint">
-		<Value>Establezca un número de seguimiento del envío actual.</Value>
+		<Value>Establezca un número de guía del envío actual.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Admin.Orders.Shipments.ViewDetails">
 		<Value>Ver detalles de envío</Value>
@@ -12435,7 +12435,7 @@
 		<Value>Método de envío</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.TrackingNumber">
-		<Value>El número de seguimiento</Value>
+		<Value>El número de guía</Value>
 	</LocaleResource>
 	<LocaleResource Name="Order.Shipments.ViewDetails">
 		<Value>Ver más detalles</Value>
