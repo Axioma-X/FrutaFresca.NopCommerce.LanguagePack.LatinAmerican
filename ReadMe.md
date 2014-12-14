@@ -1,3 +1,11 @@
+# FRUTA FRESCA
+Diferencias con el "Language Pack" original:
+- Cambia "Nombre de usuario" por "Documentos de identidad"
+- Cambia "Comprar"           por "Comprar/Reservar"
+- 
+- Cambia el texto de "Order.RetryPayment.Hint"
+
+
 # NopCommerce Latin American Language Pack
 
 Author v3.30: [Axioma X](http://www.AxiomaX.co/)
