@@ -198,10 +198,10 @@
 		<Value>Artículo devuelto:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Reason">
-		<Value>Volver Motivo: {0}</Value>
+		<Value>Razón de devolución: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Title">
-		<Value>Volver #{0} - {1}</Value>
+		<Value>Devolución #{0} - {1}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.DownloadableProducts">
 		<Value>Los productos descargables</Value>
@@ -15891,7 +15891,7 @@
 		<Value>If set the SmartSEO Template will be applied for all products, categories and manufacturers in your store. NOTE: You can override a global SmartSEO template by creating a non global SmartSEO template and mapping it to category or manufacturer.</Value>
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.NopSmartSEO.Admin.SEOTemplate.ManufacturerDescriptionSEOTemplate">
-		<Value>    Manufacturer Description SEO Template</Value>
+		<Value>      Manufacturer Description SEO Template</Value>
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.NopSmartSEO.Admin.SEOTemplate.ManufacturerDescriptionSEOTemplate.Hint">
 		<Value>      Manufacturer Description SEO Templates</Value>
@@ -15936,7 +15936,7 @@
 		<Value>Seo Template successfully edited</Value>
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.NopSmartSEO.Admin.SEOTemplate.PrefixProductKeywordsForCategoriesWithManufacturerName">
-		<Value>      Prefix Product Names with Manufacturer Name</Value>
+		<Value>     Prefix Product Names with Manufacturer Name</Value>
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.NopSmartSEO.Admin.SEOTemplate.PrefixProductKeywordsForCategoriesWithManufacturerName.Hint">
 		<Value>      Prefix Product Names with Manufacturer Name</Value>
@@ -16626,7 +16626,7 @@
 		<Value>To Date</Value>
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.Plugins.HtmlWidgets.Admin.Entities.HtmlWidget.ToDate.Hint">
-		<Value>    The date to which the html widget will be displayed.</Value>
+		<Value>      The date to which the html widget will be displayed.</Value>
 	</LocaleResource>
 	<LocaleResource Name="SevenSpikes.Plugins.HtmlWidgets.Admin.Entities.HtmlWidget.Visible">
 		<Value>Visible</Value>
