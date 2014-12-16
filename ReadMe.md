@@ -8,7 +8,7 @@ Diferencias con el "Language Pack" original:
 
 - Cambia "Número de Seguimiento"  por "Número de Guía"
 
-- Cambia el texto de "Order.RetryPayment.Hint"
+- Cambia el texto de "Order.RetryPayment.Hint", "Checkout.SelectShippingMethod"
 
 
 

@@ -10305,7 +10305,7 @@
 		<Value>Selecciona una dirección de envío de su libreta de direcciones o ingresa una nueva dirección.</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.SelectShippingMethod">
-		<Value>Selecciona el método de envío</Value>
+		<Value>Selecciona el método de envío o tienda a recoger</Value>
 	</LocaleResource>
 	<LocaleResource Name="Checkout.SelectShippingMethod.MethodAndFee">
 		<Value>{0} ({1})</Value>
